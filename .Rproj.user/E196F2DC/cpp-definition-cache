@@ -1,0 +1,47 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 15,
+                "file" : "C:/Users/Glen/Desktop/SC19022/src-i386/rwmC.cpp",
+                "kind" : 6,
+                "line" : 19,
+                "name" : "rwmC(double, double, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@rwmC#d#d#I#"
+            }
+        ],
+        "file" : "C:/Users/Glen/Desktop/SC19022/src-i386/rwmC.cpp",
+        "file_last_write" : 1577995705.000000
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 15,
+                "file" : "C:/Users/Glen/Desktop/SC19022/src-x64/rwmC.cpp",
+                "kind" : 6,
+                "line" : 19,
+                "name" : "rwmC(double, double, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@rwmC#d#d#I#"
+            }
+        ],
+        "file" : "C:/Users/Glen/Desktop/SC19022/src-x64/rwmC.cpp",
+        "file_last_write" : 1577995714.000000
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 15,
+                "file" : "C:/Users/Glen/Desktop/SC19022/src/rwmC.cpp",
+                "kind" : 6,
+                "line" : 19,
+                "name" : "rwmC(double, double, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@rwmC#d#d#I#"
+            }
+        ],
+        "file" : "C:/Users/Glen/Desktop/SC19022/src/rwmC.cpp",
+        "file_last_write" : 1577985778.000000
+    }
+]

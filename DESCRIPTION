@@ -1,0 +1,17 @@
+Package: SC19022
+Type: Package
+Title: The homework of the course: statistic computing.
+Version: 1.0
+Encoding: UTF-8
+Date: 2019-12-31
+Author: SC19022
+Maintainer: SC19022 <haoyue000000@qq.com>
+Description: The homework of the course: statistic computing.balabala
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.2), microbenchmark, knitr, rmarkdown
+LinkingTo: Rcpp
+URL: http://github.com/SC19022/SC19022
+BugReports: http://github.com/SC19022/SC19022/issues
+RoxygenNote: 7.0.2
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
